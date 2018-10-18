@@ -26,6 +26,6 @@ python readLogFile.py
 This should generate the following plot:
 
 <p align="center">
- <img src="lossComp.png" alt="Drawing", width=60%>
+ <img src="lossComp.PNG" alt="Drawing", width=60%>
 </p>
 
