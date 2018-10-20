@@ -7,7 +7,9 @@ This is a PyTorch implementation of our project, the code is heavily based on [K
 </p>
 
 ## API
-To train the network run:
+First, to produce the data run: mnistArthimetic.m 
+
+Second, to train the network run:
 ```python
 from models import *
 
@@ -17,7 +19,7 @@ python nac_project.py
 
 ## Experiments
 
-Run:
+To produce the graphs of our experiments,run:
 
 ```python
 python readLogFile.py
